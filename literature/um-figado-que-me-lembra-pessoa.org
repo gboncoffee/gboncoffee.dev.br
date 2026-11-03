@@ -1,0 +1,23 @@
+#+TITLE: Um fígado que me lembra Pessoa
+#+DATE: <2026-11-03 Tue 01:12>
+#+LANG: pt
+
+#+BEGIN_VERSE
+Um fígado que me lembra Pessoa
+Camões me é lembrado pelas viagens
+E Dias, nas românticas miragens
+Da nação que em silêncio ressoa
+
+Lembra Azevedo, de tão natural
+O vazio que tu sentes agora
+Que viu em seu relógio a hora
+Mas seu atraso é questão cultural
+
+Entende então o que Neto falava:
+Antes vem a Morte e então a Vida
+Parece até literatura eslava
+
+Gravada em uma lápide esquecida
+De um soldado que antes fuzilava
+Sem saber seu lado da sobrevida
+#+END_VERSE
