@@ -154,7 +154,7 @@ Appendix B and C: 2024-09-19 22:39:33
 
 16. If dealing with Memory Problems, =goto 8;=.
 
-17. No one likes Programming in  We aim to kill it Soon.
+17. No one likes Programming in C. We aim to kill it Soon.
 
 18. Although we're still Programming in C, and our Environments are still depending on it.
 
