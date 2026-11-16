@@ -1,6 +1,6 @@
 #+TITLE: Soneto aos Gaúchos no Paraná
 #+DATE: <2026-04-13 Mon 00:10>
-#+LANG: pt
+#+LANGUAGE: pt
 
 /Pode-se também considerar um xote./
 

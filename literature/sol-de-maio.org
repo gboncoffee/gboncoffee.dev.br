@@ -1,6 +1,6 @@
 #+TITLE: Sol de Maio
 #+DATE: <2026-07-21 Tue 09:44>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Sol de Maio quiseras vir à terra

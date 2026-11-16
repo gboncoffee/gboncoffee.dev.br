@@ -1,6 +1,6 @@
 #+TITLE: Catarina
 #+DATE: <2026-04-14 Tue 07:32>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 De cá, o rincão dos povos missionários

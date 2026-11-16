@@ -1,6 +1,6 @@
 #+TITLE: O Soneto dos Cabelos Violeta
 #+DATE: <2026-04-06 Mon 18:29>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Violetas cabelos a passear

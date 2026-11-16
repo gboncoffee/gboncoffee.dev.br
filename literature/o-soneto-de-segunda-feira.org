@@ -1,6 +1,6 @@
 #+TITLE: O Soneto de Segunda-Feira
 #+DATE: <2026-05-11 Mon 12:39>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 E mais uma vez para ti escrevi

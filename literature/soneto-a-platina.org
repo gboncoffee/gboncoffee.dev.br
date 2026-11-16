@@ -1,6 +1,6 @@
 #+TITLE: Soneto à Platina
 #+DATE: <2026-10-20 ter 00:41>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Um dia notaram que, na viagem

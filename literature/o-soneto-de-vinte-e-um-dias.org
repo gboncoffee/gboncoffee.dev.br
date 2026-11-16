@@ -1,6 +1,6 @@
 #+TITLE: O Soneto de Vinte e Um Dias
 #+DATE: <2026-06-01 Mon 19:05>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 À minha frente há um mar vermelho

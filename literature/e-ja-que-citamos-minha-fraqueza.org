@@ -1,6 +1,6 @@
 #+TITLE: E já que citamos minha fraqueza
 #+DATE: <2026-07-06 Mon 11:11>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 E já que citamos minha fraqueza

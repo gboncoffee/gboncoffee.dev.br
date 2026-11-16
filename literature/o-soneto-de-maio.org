@@ -1,6 +1,6 @@
 #+TITLE: O Soneto de Maio
 #+DATE: <2026-05-14 Thu 23:02>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 No pé do morro, araucárias da serra

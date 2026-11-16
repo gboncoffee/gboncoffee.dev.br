@@ -1,6 +1,6 @@
 #+TITLE: Esmeraldas Aos Fios Áureos
 #+DATE: <2026-04-15 Wed 07:27>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Esmeraldas sob estes fios áureos

@@ -1,6 +1,6 @@
 #+TITLE: Emacs my Beloved
 #+DATE: <2026-06-06 Sat 13:42>
-#+LANG: en
+#+LANGUAGE: en
 
 I wrote my last post about text editors in March 2025, so I guess it's time for yet another one.
 

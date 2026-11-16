@@ -1,6 +1,6 @@
 #+TITLE: Oitava das Chamas
 #+DATE: <2026-08-07 Fri 09:11>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Baita cachos, bonitos como chama

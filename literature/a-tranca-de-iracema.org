@@ -1,6 +1,6 @@
 #+TITLE: A Trança de Iracema
 #+DATE: <2026-09-11 Fri 23:11>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 O caboclo que inventou a saudade

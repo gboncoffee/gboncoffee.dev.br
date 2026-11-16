@@ -1,6 +1,6 @@
 #+TITLE: Soneto ao Primeiro a Cruzar o Rio
 #+DATE: <2026-04-25 Sat 23:24>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 O primeiro a cruzar o rio jamais

@@ -1,6 +1,6 @@
 #+TITLE: Soneto de uma Carmesim Luísa
 #+DATE: <2026-06-14 Sun 01:27>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 O carmesim desta dona guerreira

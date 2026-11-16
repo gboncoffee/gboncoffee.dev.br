@@ -1,6 +1,6 @@
 #+TITLE: Soneto à Primavera
 #+DATE: <2026-09-24 Thu 00:09>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 O céu cinza, hoje azul despertou

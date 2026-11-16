@@ -1,6 +1,6 @@
 #+TITLE: A Cossaca no Paraná
 #+DATE: <2026-06-30 Tue 23:30>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Para sempre no céu brilhará

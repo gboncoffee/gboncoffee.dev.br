@@ -1,6 +1,6 @@
 #+TITLE: O Soneto do Atlântico
 #+DATE: <2026-05-01 Fri 14:13>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Atlântico azul, bem grande e salgado

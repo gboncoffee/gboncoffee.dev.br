@@ -1,6 +1,6 @@
 #+TITLE: Soneto à Guria Paranaense
 #+DATE: <2026-06-23 Tue 08:56>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Guria ninfa, que guerras fariam

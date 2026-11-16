@@ -1,6 +1,6 @@
 #+TITLE: Luso-tropical Saudade
 #+DATE: <2026-05-18 Mon 22:59>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Luso-tropical saudade lhe aperta

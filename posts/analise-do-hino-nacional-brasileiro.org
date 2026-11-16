@@ -1,6 +1,6 @@
 #+TITLE: Análise do Hino Nacional Brasileiro
 #+DATE: <2026-06-13 Sat 22:48>
-#+LANG: pt
+#+LANGUAGE: pt
 
 Como o assunto do pós-jogo Brasil X Marrocos foi "o hino do Brasil não fala sobre guerra", eu decidi fazer essa análise da sua letra.
 

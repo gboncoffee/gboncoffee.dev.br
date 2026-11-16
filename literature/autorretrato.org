@@ -1,6 +1,6 @@
 #+TITLE: Autorretrato
 #+DATE: <2026-08-17 Mon 08:41>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Magro, não alto, cara de cansado

@@ -1,6 +1,6 @@
 #+TITLE: Um fígado que me lembra Pessoa
 #+DATE: <2026-11-03 Tue 01:12>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Um fígado que me lembra Pessoa

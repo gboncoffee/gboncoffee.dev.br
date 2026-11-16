@@ -1,6 +1,6 @@
 #+TITLE: Terceiro Soneto Sobre Café e Gatos
 #+DATE: <2026-06-01 Mon 21:09>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Namoro, gatos, selva e litoral

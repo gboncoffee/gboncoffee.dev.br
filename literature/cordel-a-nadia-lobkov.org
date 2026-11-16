@@ -1,6 +1,6 @@
 #+TITLE: Cordel em Ocasião do Aniversário de Nadia Lobkov
 #+DATE: <2025-05-27 Tue>
-#+LANG: pt
+#+LANGUAGE: pt
 
 #+BEGIN_VERSE
 Hoje é o dia
