@@ -1,3 +1,3 @@
 #!/bin/env bash
 
-rsync -avz --delete public/ webmaster@latte:/var/www/site
+rsync -avz --delete --chmod=D755,F644 public/ webmaster@latte:/var/www/site
