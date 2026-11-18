@@ -2,6 +2,11 @@
 (require 'ox-publish)
 (require 'cl-lib)
 
+;; Always build from scratch, so files whose source was removed don't linger in
+;; public/ (and, through deploy.sh's rsync --delete, on the server).
+(when (file-directory-p "public")
+  (delete-directory "public" t))
+
 (cl-labels
     ((read-file-to-string (file)
        (with-temp-buffer
