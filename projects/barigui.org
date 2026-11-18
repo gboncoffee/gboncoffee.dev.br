@@ -1,0 +1,11 @@
+#+TITLE: Barigui - Mouse oriented dynamic window manager for X11
+#+DATE: <2024-03-12 Tue 12:00>
+#+LANG: en
+
+Mouse-oriented dynamic window manager for X11.
+
+It manages windows in a floating way by default, but windows may be put in a tiled "master-stack" layer, similar to [[https://dwm.suckless.org/][dwm]] but reversed. Windows may be hide and are controlled via a tiny bar at their side.
+
++ [[https://github.com/gboncoffee/barigui][Source code]]
+
+[[../static/barigui.png]]

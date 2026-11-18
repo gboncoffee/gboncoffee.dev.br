@@ -61,7 +61,7 @@
 		  :time-stamp-file nil
 		  :sitemap-sort-files 'anti-chronologically
 		  :sitemap-filename "index.html"
-		  :sitemap-title "Literature"
+		  :sitemap-title "My literary work"
 		  :sitemap-format-entry #'sitemap-format-entry-html
 		  :auto-sitemap t)
 	    (list "posts"
@@ -72,7 +72,19 @@
 		  :time-stamp-file nil
 		  :sitemap-sort-files 'anti-chronologically
 		  :sitemap-filename "index.html"
-		  :sitemap-title "Posts"
+		  :sitemap-title
+		  "Thoughts on computing, philosophy, games, etc"
+		  :sitemap-format-entry #'sitemap-format-entry-html
+		  :auto-sitemap t)
+	    (list "projects"
+		  :recursive nil
+		  :base-directory "./projects"
+		  :publishing-directory "./public/projects/"
+		  :publishing-function #'org-html-publish-to-html
+		  :time-stamp-file nil
+		  :sitemap-sort-files 'anti-chronologically
+		  :sitemap-filename "index.html"
+		  :sitemap-title "The computing projects I did that I actually like"
 		  :sitemap-format-entry #'sitemap-format-entry-html
 		  :auto-sitemap t))))
       (org-publish-all t)

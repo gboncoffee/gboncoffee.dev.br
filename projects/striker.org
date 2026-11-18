@@ -1,0 +1,11 @@
+#+TITLE: Striker - Small game
+#+DATE: <2024-01-02 Tue 21:52>
+#+LANG: en
+
+The Resistance remains in the Arctic Ocean. In the Spitsbergen Nuclear Facility, at the Svalbard Archipelago, near the town of Longyearbyen, you're under attack and needs to shoot down all enemy missiles. The Resistance needs your help fighting the Enemy.
+
+Small game made in C with Raylib.
+
++ [[https://github.com/gboncoffee/striker][Source code]]
+
+[[../static/striker.png]]

@@ -1,0 +1,21 @@
+#+TITLE: Iguassu - rio clone for X11
+#+DATE: <2023-12-20 Wed 00:29>
+#+LANG: en
+
+~rio~ clone for X11.
+
+"Rio" stands for river in Portuguese, and "Iguassu" is a river that originates in my hometown, Curitiba, and crosses the state of Paraná until it reaches Argentina. There, it falls in waterfalls that I consider are the most beautiful thing in this world.
+
+Differences from Plan 9 From User Space rio:
+
++ Text rendering via Xft so TrueType support.
++ Configuration via source code only (config.h).
++ No compiled limits.
++ Three keybinds: one for fullscreen, one for reshaping and one for fixing bad rendered windows.
++ Additional menu on button 1 that shows all windows.
+
+See the repo for more information.
+
++ [[https://github.com/gboncoffee/iguassu][Source code]]
+
+[[../static/iguassu.png]]

@@ -1,0 +1,9 @@
+#+TITLE: Rave - Audio visualizer
+#+DATE: <2023-12-09 Sat 01:08>
+#+LANG: en
+
+Audio visualizer made with Raylib in C.
+
++ [[https://github.com/gboncoffee/rave][Source code]]
+
+[[../static/rave.png]]

@@ -1,0 +1,15 @@
+#+TITLE: EGG - "Emulador Genérico do Gabriel" (Gabriel's Generic Emulator)
+#+DATE: <2023-11-17 Fri 00:45>
+#+LANG: en
+
+EGG ("Emulador Genérico do Gabriel", Portuguese for Gabriel's Generic Emulator) is an emulator tailored at computer science education, designed specifically with the needs of the Microcomputers classes at [[https://web.inf.ufpr.br/dinf/][UFPR]]. Supports RISC-V, MIPS and a fantasy architecture named Sagui.
+
+* Features
++ Internationalized interface, currently translated only for Portuguese.
++ Debugger with breakpoints, rewind, stepping and dump functionality.
++ Assembly syntax designed to help students.
+
+EGG is distributed as a statically linked binary and probably works in any system with virtual memory where Go also works.
+
++ [[https://github.com/gboncoffee/egg][Source code]]
++ [[https://github.com/gboncoffee/egg/releases][Binaries for Linux (amd64, riscv64, arm64), Windows (amd64, arm64), Darwin (aka MacOS) (amd64, arm64) and Plan 9 (amd64)]]

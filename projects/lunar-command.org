@@ -1,0 +1,9 @@
+#+TITLE: Lunar Command - Missile Command clone
+#+LANG: en
+#+DATE: <2024-03-27 Wed 20:32>
+
+Point-and-click Missile Command clone made in Lua with [[https://love2d.org/][LÖVE]].
+
++ [[https://github.com/gboncoffee/lunar-command][Source code]]
+
+[[../static/lunar.png]]
