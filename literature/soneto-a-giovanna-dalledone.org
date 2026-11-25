@@ -1,0 +1,23 @@
+#+TITLE: Soneto em Ocasião do Aniversário de Giovanna Dalledone
+#+DATE: <2026-11-24 Tue 23:49>
+#+LANGUAGE: pt
+
+#+BEGIN_VERSE
+Qual manhã de Sol nessa primavera
+Que nos trás, em flores, a vida nova
+Alegre, anuncia a voz em trova
+Que te renova em passar outra Era
+
+Mas o Rio tu quase nem desceste
+O mato tem ainda o mesmo orvalho
+Não mostra que um dia será grisalho
+E de noite, enfim, será celeste
+
+Recordai que, mas não te preocupa
+Por enquanto, siga olhando à Oeste
+Mira no que a tua mente ocupa
+
+Depois de Rosário te importa o Leste
+Queira o Senhor chegue lá sem culpa
+Eu rogo por aquilo em que investe
+#+END_VERSE
